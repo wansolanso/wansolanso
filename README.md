@@ -2,11 +2,18 @@
 <!-- Concept: "you are the infrastructure." The profile reads like a live system. -->
 <!-- Repo: create a public repo named exactly `wansolanso`, put this README.md at its root. -->
 
-<!-- ───────────────────────── HEADER: animated typing ───────────────────────── -->
+<!-- ───────────────────────── HEADER: logo + animated typing ───────────────────────── -->
 
 <p align="center">
-  <a href="https://github.com/wansolanso">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=5EEAD4&center=true&vCenter=true&width=720&height=70&lines=%24+whoami;I+ship+the+whole+stack+%E2%80%94+infra+to+UI.;Infrastructure+is+a+product.+I+ship+it+like+one.;multi-tenant+%7C+zero-trust+%7C+infra-as-code" alt="typing header" />
+  <a href="https://atalho.dev"><img src="assets/atalho-logo.svg" width="84" alt="Atalho" /></a>
+</p>
+
+<p align="center">
+  <a href="https://atalho.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=5EEAD4&center=true&vCenter=true&width=720&height=70&lines=%24+whoami;I+ship+the+whole+stack+%E2%80%94+infra+to+UI.;Infrastructure+is+a+product.+I+ship+it+like+one.;multi-tenant+%7C+zero-trust+%7C+infra-as-code" />
+      <img alt="$ whoami — I ship the whole stack, infra to UI" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=0F766E&center=true&vCenter=true&width=720&height=70&lines=%24+whoami;I+ship+the+whole+stack+%E2%80%94+infra+to+UI.;Infrastructure+is+a+product.+I+ship+it+like+one.;multi-tenant+%7C+zero-trust+%7C+infra-as-code" />
+    </picture>
   </a>
 </p>
 
@@ -63,39 +70,28 @@ module.doctrine      zero-trust · instance-per-tenant · crypto-shred · IaC ev
 ```
 
 <p>
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6&labelColor=05122A" />
-  <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8&labelColor=05122A" />
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFD43B&labelColor=05122A" />
-  <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=844FBA&labelColor=05122A" />
-  <img src="https://img.shields.io/badge/-Oracle%20Cloud-05122A?style=flat&logo=oracle&logoColor=F80000&labelColor=05122A" />
-  <img src="https://img.shields.io/badge/-Vault-05122A?style=flat&logo=vault&logoColor=FFEC6E&labelColor=05122A" />
-  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED&labelColor=05122A" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1&labelColor=05122A" />
-</p>
-
-<!-- ───────────────────────── METRICS ───────────────────────── -->
-
-### ▸ `htop` <img align="right" alt="# metrics" src="https://img.shields.io/badge/%23%20metrics-0d1117?style=flat&labelColor=0d1117" />
-
-<!-- Self-hosted github-profile-summary-cards (counts private repos via GITHUB_TOKEN). -->
-<p align="center">
-  <img height="175" src="https://github-profile-summary-cards-atalho-pessoal.vercel.app/api/cards/stats?username=wansolanso&theme=tokyonight" alt="stats" />
-  <img height="175" src="https://github-profile-summary-cards-atalho-pessoal.vercel.app/api/cards/repos-per-language?username=wansolanso&theme=tokyonight" alt="top languages" />
-</p>
-
-<p align="center">
-  <img height="175" src="https://github-profile-summary-cards-atalho-pessoal.vercel.app/api/cards/most-commit-language?username=wansolanso&theme=tokyonight" alt="most used language" />
-  <img height="175" src="https://github-profile-summary-cards-atalho-pessoal.vercel.app/api/cards/commits-per-weekday?username=wansolanso&theme=tokyonight&utcOffset=-3" alt="commits per weekday" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6&labelColor=05122A" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8&labelColor=05122A" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFD43B&labelColor=05122A" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=844FBA&labelColor=05122A" />
+  <img alt="Oracle Cloud" src="https://img.shields.io/badge/-Oracle%20Cloud-05122A?style=flat&logo=oracle&logoColor=F80000&labelColor=05122A" />
+  <img alt="Vault" src="https://img.shields.io/badge/-Vault-05122A?style=flat&logo=vault&logoColor=FFEC6E&labelColor=05122A" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED&labelColor=05122A" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1&labelColor=05122A" />
 </p>
 
 <!-- ───────────────────────── FOOTER ───────────────────────── -->
 
 <p align="center">
+  <a href="https://atalho.dev">
+    <img alt="atalho.dev — legal-tech SaaS" src="https://img.shields.io/badge/atalho.dev-0F766E?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="mailto:matheus@atalho.dev">
-    <img src="https://img.shields.io/badge/$_ping_me-5EEAD4?style=for-the-badge&logo=gmail&logoColor=05122A&labelColor=05122A&color=5EEAD4" alt="email" />
+    <img alt="email matheus@atalho.dev" src="https://img.shields.io/badge/%24_ping_me-5EEAD4?style=for-the-badge&logo=gmail&logoColor=05122A" />
   </a>
 </p>
 
-<p align="center"><sub><code># EOF — still running. don't <kbd>Ctrl</kbd>+<kbd>C</kbd>.</code></sub></p>
+<p align="center"><sub>Building <a href="https://atalho.dev">Atalho</a> — legal-tech SaaS. Most of the platform lives in private repos.</sub></p>
 
-<!-- profile overview -->
+<p align="center"><sub><code># EOF — still running. don't <kbd>Ctrl</kbd>+<kbd>C</kbd>.</code></sub></p>
