@@ -84,7 +84,7 @@ module.doctrine      zero-trust · instance-per-tenant · crypto-shred · IaC ev
 
 <p align="center">
   <a href="https://atalho.dev">
-    <img alt="atalho.dev — legal-tech SaaS" src="https://img.shields.io/badge/atalho.dev-0F766E?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img alt="atalho.dev — legal-tech SaaS" src="https://img.shields.io/badge/atalho.dev-0F766E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BCiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiM5YTViMmQiLz4KICA8cmVjdCB4PSIxMCIgeT0iMTQiIHdpZHRoPSI0NCIgaGVpZ2h0PSIzNiIgcng9IjYiIGZpbGw9IiNmYWY5ZjYiLz4KICA8cmVjdCB4PSIxMCIgeT0iMTQiIHdpZHRoPSI0NCIgaGVpZ2h0PSIxMSIgcng9IjYiIGZpbGw9IiNmMGU0ZDYiLz4KICA8cmVjdCB4PSIxMCIgeT0iMjAiIHdpZHRoPSI0NCIgaGVpZ2h0PSI1IiBmaWxsPSIjZjBlNGQ2Ii8%2BCiAgPGNpcmNsZSBjeD0iMTciIGN5PSIxOS41IiByPSIyLjIiIGZpbGw9IiNkOTc3NmYiLz4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjE5LjUiIHI9IjIuMiIgZmlsbD0iI2Q5YjM2ZiIvPgogIDxjaXJjbGUgY3g9IjMxIiBjeT0iMTkuNSIgcj0iMi4yIiBmaWxsPSIjODdiMzc4Ii8%2BCiAgPHJlY3QgeD0iMTYiIHk9IjMxIiB3aWR0aD0iMjIiIGhlaWdodD0iMy41IiByeD0iMS43NSIgZmlsbD0iIzlhNWIyZCIvPgogIDxyZWN0IHg9IjE2IiB5PSIzOCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjMuNSIgcng9IjEuNzUiIGZpbGw9IiNkNGMzYjIiLz4KPC9zdmc%2BCg%3D%3D&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:matheus@atalho.dev">
@@ -92,6 +92,6 @@ module.doctrine      zero-trust · instance-per-tenant · crypto-shred · IaC ev
   </a>
 </p>
 
-<p align="center"><sub>Building <a href="https://atalho.dev">Atalho</a> — legal-tech SaaS. Most of the platform lives in private repos.</sub></p>
+<p align="center"><sub>Building <a href="https://atalho.dev">Atalho</a> — software &amp; automation for the legal sector.</sub></p>
 
 <p align="center"><sub><code># EOF — still running. don't <kbd>Ctrl</kbd>+<kbd>C</kbd>.</code></sub></p>
