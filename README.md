@@ -11,8 +11,8 @@
 <p align="center">
   <a href="https://atalho.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=5EEAD4&center=true&vCenter=true&width=720&height=70&lines=%24+whoami;I+ship+the+whole+stack+%E2%80%94+infra+to+UI.;Infrastructure+is+a+product.+I+ship+it+like+one.;multi-tenant+%7C+zero-trust+%7C+infra-as-code" />
-      <img alt="$ whoami — I ship the whole stack, infra to UI" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=0F766E&center=true&vCenter=true&width=720&height=70&lines=%24+whoami;I+ship+the+whole+stack+%E2%80%94+infra+to+UI.;Infrastructure+is+a+product.+I+ship+it+like+one.;multi-tenant+%7C+zero-trust+%7C+infra-as-code" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=5EEAD4&center=true&vCenter=true&width=720&height=70&lines=%24+whoami;multi-tenant+%7C+zero-trust+%7C+infra-as-code" />
+      <img alt="$ whoami — multi-tenant, zero-trust, infra-as-code" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=0F766E&center=true&vCenter=true&width=720&height=70&lines=%24+whoami;multi-tenant+%7C+zero-trust+%7C+infra-as-code" />
     </picture>
   </a>
 </p>
